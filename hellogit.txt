@@ -1,1 +1,1 @@
-Version 1: Hello world
+Version 1: Hello Git
